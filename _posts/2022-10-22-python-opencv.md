@@ -33,4 +33,5 @@ cv2.destroryWindows()
 ```
 
 **[ 실행 결과 ]**
+<br/>
 <img src="https://cdn.discordapp.com/attachments/942420868846460993/1034420917071253585/result.PNG" width="100">
